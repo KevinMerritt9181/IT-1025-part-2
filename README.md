@@ -6,7 +6,7 @@ My name is Kevin :rage:
 I ~~hate~~ love brocoli 
 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Classes |
+------------ |
+Content from cell 1 | 
+Content in the first column | 
